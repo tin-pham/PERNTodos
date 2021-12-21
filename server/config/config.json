@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "shin",
+    "password": "test1234",
+    "database": "todos_database",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "shin",
+    "password": "test1234",
+    "database": "todos_database",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "shin",
+    "password": "test1234",
+    "database": "todos_database",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
